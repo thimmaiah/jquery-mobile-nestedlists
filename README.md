@@ -1,6 +1,11 @@
 jQuery-mobile-nestedlists
 =========================
-this is an extension to the listview widget which
+
+Fixed issues with JQM1.4 
+
+=========================
+
+This is an extension to the listview widget which
 restores jQuery mobile 1.3 nested listviews in jQuery mobile 1.4
 
 to enable this behavior simply include the widget simply include this extension
